@@ -1,9 +1,9 @@
 # Kill Team Game Tracker
 
 This simple, single-page tracker is for playing the tabletop game **Kill Team (24)**. It's designed to be used on your phone (though can be used on a computer), helping to reduce table clutter by moving the tracking of Tac Ops, Crit Ops, and other game stats to a digital format that can be tucked into your pocket while playing. 
-
-<img width="800" alt="Screenshot" src="https://github.com/user-attachments/assets/b0bf2a49-2504-4251-9237-d72ad6de8245" />
-
+<div style="text-align: center;">
+<img width="100%" align="center" alt="Screenshot" src="https://github.com/user-attachments/assets/b0bf2a49-2504-4251-9237-d72ad6de8245" />
+ 
 ### Key Features
 * **Select your Mission**: The tracker allows you to choose the **Crit Op** for your current game. All cards are visible to begin with. After choosing a Mission, the remaining Crit Ops are hidden to save space. Deselect the chosen mission to get them back.
 * **Select your Tac Op**: The tracker allows you to choose you Tac Op from a pre-defined list, filtering them by archetype if you want to (Recon, Seek & Destroy, Security, Infiltration).
