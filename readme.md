@@ -1,4 +1,4 @@
-# Kill Team Tac Ops Tracker
+# Kill Team Game Tracker
 
 This simple, single-page tracker is for playing the tabletop game **Kill Team (24)**. It's designed to be used on your phone (though can be used on a computer), helping to reduce table clutter by moving the tracking of Tac Ops, Crit Ops, and other game stats to a digital format that can be tucked into your pocket while playing. 
 
